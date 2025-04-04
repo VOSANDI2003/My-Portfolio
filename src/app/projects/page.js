@@ -28,7 +28,7 @@ export default function Projects() {
         <ul className="mt-6 space-y-4 text-left max-w-xl mx-auto">
           <li className="bg-gray-100 p-4 rounded-lg shadow-md">
             <h2 className="text-xl font-semibold">Project 1</h2>
-            <p>About page for the projrct.</p>
+            <p>About page for the project.</p>
             <Link href="https://github.com/VOSANDI2003/aboutpage"><span className="text-blue-500 underline">View Project</span></Link>
           </li>
           <li className="bg-gray-100 p-4 rounded-lg shadow-md">
