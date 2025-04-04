@@ -28,12 +28,12 @@ export default function Projects() {
         <ul className="mt-6 space-y-4 text-left max-w-xl mx-auto">
           <li className="bg-gray-100 p-4 rounded-lg shadow-md">
             <h2 className="text-xl font-semibold">Project 1</h2>
-            <p>A brief description of Project 1.</p>
+            <p>About page for the projrct.</p>
             <Link href="https://github.com/VOSANDI2003/aboutpage"><span className="text-blue-500 underline">View Project</span></Link>
           </li>
           <li className="bg-gray-100 p-4 rounded-lg shadow-md">
             <h2 className="text-xl font-semibold">Project 2</h2>
-            <p>A brief description of Project 2.</p>
+            <p>Contact us page for the project.</p>
             <Link href="https://github.com/VOSANDI2003/contact_us"><span className="text-blue-500 underline">View Project</span></Link>
           
             </li>
